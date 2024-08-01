@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 "# CareerCraft---Resume-Builder" 
 "# CareerCraft---Resume-Builder" 
 "# CareerCraft---Resume-Builder" 
+"# CareerCraft---Resume-Builder" 
